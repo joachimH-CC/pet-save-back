@@ -12,12 +12,13 @@
 
 | 技术 | 版本 | 说明 |
 |------|------|------|
-| **Vue** | 2.x | 前端框架 (89.4%) |
+| **Vue** | 2.6.12 | 前端框架 (89.4%) |
 | **JavaScript** | ES6+ | 编程语言 (9.4%) |
-| **Element UI** | - | UI 组件库 |
-| **RuoYi** | - | 后台管理框架 |
-| **Axios** | - | HTTP 请求库 |
-| **Vue Router** | - | 路由管理 |
+| **Element UI** | 2.15.14 | UI 组件库 |
+| **RuoYi** | 3.8.8 | 后台管理框架 |
+| **Axios** | 0.28.1 | HTTP 请求库 |
+| **Vue Router** | 3.4.9 | 路由管理 |
+| **echarts** | 5.4.0 | 图标 |
 
 ---
 
@@ -337,5 +338,4 @@ A: 在组件的 `dicts` 数组中添加字典key，然后通过 `this.dict.type.
 **最后更新**: 2026年4月3日  
 **项目仓库**: [joachimH-CC/pet-save-back](https://github.com/joachimH-CC/pet-save-back)
 
-```
 
